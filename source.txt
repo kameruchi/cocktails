@@ -1,0 +1,775 @@
+Shake: 5 trozos de hielo picado
+
+
+>Flor the ____
+
+20 licor de vainilla
+30 Contreau
+30 Grand Marnier
+40 Cognac
+70 Pulpa de Frutilla
+30 Crema de leche
+
+i:
+Shake 1 minuto
+Servir en vaso de whisky
+
+>Copete
+
+20 Kirsch
+30 Grand Marnier
+30 Maraschino
+70 Gin
+50 Vermouth Frances
+2 drops Bitter Angostura
+
+i:
+Stir 1.5 minutes
+Servir en copa conica con una cereza y corteza de limon
+
+>Cuadrera
+
+20 Granadina
+40 Orange juice
+4 drops Bitter Angostura
+130 Gin
+
+i:
+Shake 2 minutes
+Servir en copa conica
+
+>Rosa de Once
+
+50 Crema de leche
+20 Licor Vainilla
+30 Curacao Triple Sec
+30 Curacao Orange
+30 Pulpa de frutilla
+40 Cognac
+
+i:
+Shake 2 minutes
+Servir vasito barril
+
+>Contigo
+
+30 Licor crema de Cacao
+20 Cognac
+20 Cherry Brandy
+
+i:
+Layer en copa conica with 2 ice cubes
+Top with crema de leche and a cherry
+
+>Tita Merello
+
+70 Cognac
+50 Monastique
+20 Licor crema de Cacao
+60 crema de leche
+
+i:
+Shake 1.5 minutes
+Serve en copa flauta
+
+>Antesala del Infierno
+
+40 Kirsch
+30 Grand Marnier
+30 Maraschino
+40 Vermouth frances
+50 Gin
+
+i:
+Stir 1 minute with 5 ice cubes.
+Serve copa conica
+Add 10 drops Maraschino con Bitter Rojo, which decanter to the bottom.
+Add 10 drops Bitter Rojo con 20 drops Ron Blanco.
+Add orange peel humedecida en Ron y encendera con fosforo de madera.
+Se producira una llama azul que da a este cocktail una interesante apariencia.
+
+>Baqueano
+
+1 Yema de huevo
+1 sugar spoon
+10 Lemon juice
+30 Licor de Vainilla
+120 Whiskey
+
+i:
+Shake 2 minutes
+Serve vaso barril con un touch de nuez moscada
+
+>Spot o Stop
+
+50 Jugo pineapple
+10 Maraschino
+30 Vermouth Torino
+30 Jerez
+70 Whiskey
+5 drops lemon juice
+
+i:
+Shake 1.5 minutes
+Serve copa flauta
+
+>Alta Gracia
+
+100 Whiskey
+30 Calvados
+60 Orange juice
+10 Lemon juice
+
+i:
+Shake with 5 ice cubes and 1 spoon of sugar
+Serve in copa conica
+
+>Aniversario
+
+40 Cognac
+100 Cherry brandy
+40 Crema de leche
+
+i:
+Stir 1 minute
+Serve copa cilindrica
+Top with champagne seco and a cherry
+
+>Cancionero
+
+20 Bitter Rojo
+50 Jugo pineapple
+30 Jerez
+40 Vermouth Bianco Americano
+50 Gin
+10 Contreau
+
+i:
+Shake 1.5 minutes
+Serve vaso conico with lemon peel and two cherries
+
+>Caricias
+90 Gin
+90 Vino Quinado
+20 Pernod
+
+i:
+Stirr 1.5 minutes and serve vasito barril
+
+>Cocktail del dia
+
+60 Gin
+40 Crema de leche
+50 Curacao Orange
+20 Curacao triple sec
+30 Jugo pulpa de frutilla
+
+i:
+Shake 2 minutes and serve en vaso barril
+
+>Jardin de invierno
+
+60 Pineapple
+20 Licor vainilla
+20 curcao triple sec
+100 Gin
+
+i:
+Shake 2 minutes
+Serve in champagne glass
+
+>Whiskey Sour
+
+1 lemon
+2 spoon powder sugar
+50 whiskey
+
+>Caballito Rallado
+
+10 Curacao Triple sec
+30 Vio quinado
+30 gin
+4 drops Kirsch 
+4 Bitter Rojo
+
+i:
+Frotar borde de un vaso conico con limon y add sugar.
+Serve with 2 ice cubes and lemon slice.
+
+>Invitacion
+
+100 Cognac
+80 Vermouth frances
+20 Curacao Orange
+
+i:
+Stir 1 minutes and serve un copa conica with orange slice
+
+>La Duda (virgo)
+
+100 Cognac
+50 Curacao Orange
+40 Jerez
+10 Licor de crema de cacao
+
+i:
+Stir 1 minutes and serve u vaso barril con una cereza
+
+>No va mas
+
+30 Bitter rojo
+60 Jerez
+70 Cognac
+10 Lemon juice
+30 curacao Orange
+
+i:
+Shake 1.5 minutes and serve vaso barril
+
+>Santa Marta
+
+50 Licor Huevo (Advocat)
+50 Crema de Leche
+50 Cherry Brandy
+50 Gin
+
+i:
+Shake 1.5 minutes and serve u copa cilindrica
+
+>YoYo
+
+50 Jerez
+50 Pineapple juice
+50 Vermouth Bianco Americano
+20 Granadina
+30 Gin
+10 drops Lemon juice
+
+i:
+Shake 1.5 minutes y servir copa champagne
+
+>El Si
+
+100 Vermouth frances
+70 Gin
+30 Licor Monastique
+4 drops Bitter Orange
+
+i:
+Stir 1.5 minutes and serve in copa conica with a cherry
+
+>Ciriaquito
+
+120 Cognac
+50 Oporto
+30 Licor Vainilla
+
+i:
+Shake 1.5 minutes and serve en copa cilindrica con dos trocitos de fruta
+
+>Pasatiempo
+
+80 Whiskey
+40 Vermouth italiano
+60 Grapefruit juice
+20 Grandina
+
+i:
+Shake 1.5 minutes and serve un copa conica
+
+>Peregrino
+
+90 Whiskey
+70 Pineapple juice
+30 Jerez
+5 drops lemon juice
+
+i:
+Shake 1.5 minutes and serve in copa flauta
+
+>Taura
+
+70 Rum
+50 Jerez
+60 Vermouth Bianco
+10 drops lemon juice
+10 drops cassis or grosalla
+
+i:
+Shake 1.5 minutes y servir en vaso barril with lemon peel
+
+>Pasional
+
+1 yema de huevo
+100 Vino Quinado
+30 Curacao Orange
+40 Cognac
+
+i:
+Shake 2 minutes and serve in copa flauta with cinammon
+
+>Triunfo
+
+1 yema de huvo
+90 Vio Quinado
+50 Curacao Dulce
+30 Crema de leche
+5 drops lemon juice
+
+i:
+Shake 2 minutes and serve en copa flauta con cherry brandy, a cherry and un touch nuez moscada
+
+>La Firmeza
+
+100 Rum blanco
+30 Pineapple juice
+5 drops kirsch or bitter rojo
+
+i:
+Pour in vaso conico with 3 ice cubes, half slice of orange, 2 cherries, 1 sugar cube and 4 drops bitter angostura.
+Drink with two (non plastic) straws.
+
+>Argentino
+
+100 Cognac
+70 Vermouth Bianco
+20 Bitter Rojo
+10 Cassis
+
+i:
+Shake 1 minute and serve en copa conica con lemon peel
+
+>Alboroto
+
+4 drops Angostura bitter
+40 Curacao Orange
+50 Pineapple juice
+100 Cognac
+
+i:
+Shake 1.5 minutes and serve in copa conica
+
+>VIDA NOCTURNA
+
+20 Kirsch 
+20 Curacao Triple Sec
+20 Maraschino
+100 Rum
+40 Vermouth frances
+
+i:
+Stir 1.5 minutes and serve en copa conica
+
+>A la Hora Senialada
+
+100 Rum blanco
+60 gin
+20 Bitter Rojo
+20 Licor Monastique
+4 Bitter Angostura
+
+i:
+Frotar el borde de la copa con rodaja de limon and add sugar.
+Stir 1 minute and serve in copa conica with a cherry.
+
+>[Not a Cocktail] Cheese Fondue
+
+400 queso grugere
+1/4 vino blanco seco
+1 vasito kirsch
+1 diente de ajo
+200 crema de leche
+1 spoon maicena
+Sal
+Pepper
+
+>Bina Cocktail
+
+30 Granadina
+100 Gin
+1 whole egg
+1 Half lemon juice
+
+i:
+Shake 1.5 minutes and serve en copa flauta with nuez moscada
+
+>Palapala
+
+70 Cognac
+20 Apricot Brandi
+30 Durazo njuice
+30 Licor vainilla
+50 crema de leche
+
+i:
+Shake 2 minutes and serve en copa flauta
+
+>Donia Petrona
+
+50 Crema de Leche
+50 Licor Monastique
+50 Cognac
+50 Licor Vainilla
+
+i:
+Shake 1.5 minutes and serve en copa flauta and add a bit of cherry licor and Kermann verde. Top with nuez moscada.
+
+>Untitled
+
+30 Orange juice
+30 Pula frutilla
+30 Cognac
+10 Granadine
+
+i:
+Stir and ad fruits. Drink with [non plastic] straws
+
+>Diras como Fue
+
+80 Grand Marnier
+60 Gin
+10 drops Granadine
+20 drops Curacao Rojo
+10 drops Kermann green
+Top Crema de leche
+
+i:
+Put 3 ice cubes en copa flauta, pur the gin and grand marnier. Then slowly add the granadine, curacao and kermann. Top with crema de leche.
+
+>No me Olvides
+
+30 Curacao Dulce
+60 Oporto
+30 Curacao Triple sec
+30 Jerez
+50 Crema de leche
+
+i:
+Shake 1.5 minutes and serve in copa cilindrica
+
+>Amapola
+
+80 Gin
+30 Licor crema de cacao
+40 Licor Vainilla
+50 Crema de leche
+
+i:
+Shake 2 minutes and serve en copa cilindrica with cinnamon.
+
+>Caperucita roja [virgin]
+
+50 Pineapple Juice 
+70 Tomato Juice
+50 Crema de Leche
+30 Cassis syrop
+
+i:
+Shake 2 minutes and serve copa conica
+
+>Carlitos Gardel - Opa Opa Opa - [virgin]
+
+80 Pineapple juice
+60 Orange juice
+20 Granadine syrop
+1 yema de huevo
+1 lemon slice
+
+i:
+Shake everything 1.5 minutes and serve copa conica
+
+>Carlitos [virgin]
+
+50 Tomato juice
+60 Pineapple juice
+50 Crema de leche
+30 Granadine syrop
+1 half lemon juice
+
+i:
+Shake 1.5 minutes and serve copa cilindrica
+
+>Albardon
+
+40 unknown
+120 gin
+10 Maraschino
+5 drops bitter angostura
+
+i:
+Stir
+
+>Se va Se va
+
+30 Bitter Angostura
+50 Vino quinado
+80 Vermouth Frances
+40 Cognac
+
+i:
+Stir 1.5 minutes and serve copa conica
+
+>White Lady
+
+50 Gin
+25 Contreau
+25 Lemon juice
+1 egg white
+1 Staranis
+
+i:
+Shake 1 minute (egg first with 1 ice cube). Add Anis and lemon peel after pouring in a martini glass.
+
+>Charlie Chaplin
+
+30 Apricot Liquor
+30 Gin
+30 Lemon Juice
+
+i:
+Shake and serve on the rocks
+
+>Sea Breeze
+
+30 Vodka
+30 Grapefruite juice
+30 Cranberry Juice
+
+i:
+Shake and serve on the rockes
+
+>Ice Breaker
+
+30 Tequila
+30 Grapefruite juice
+30 Triple sec
+
+i:
+Shake and serve on the rocks
+
+>Isla de Pinos
+
+30 Rum
+30 Grapefruite juice
+1 spoon sugar
+10 Granadin syrop
+
+i:
+Shake and serve on high ball glass with icecubes
+
+>Cherry Blossom
+
+30 Brandy
+30 Cherry Brandy
+10 Curacao Orange
+20 Lemon Juice
+10 Granadyn syrop
+
+i:
+Shake and serve.
+
+> Nuts aka Russian Prelude
+
+20 Frangelico
+30 Vodka
+20 Baileys
+
+i:
+Shake and serve on short glass
+
+>Dizzy Dame
+
+30 Brandy
+30 Coffee
+20 Cream
+20 Cherry Brandy
+
+i:
+Shake and serve on the rocks
+
+>Strawberry Jam [virgin]
+
+6 Frutillas
+30 water
+2 tsp gum syrup
+top cream
+
+i:
+Blend evrything but the cream. Serve on the rocks and top with floated cream.
+
+>Melonball
+
+30 Vodka
+30 Melon Lq
+Top Orange juice
+
+i:
+Pour and tope with organge juice in high ball glass
+
+>Malibu Beach
+
+30 Malibu
+Top orange juice
+
+i:
+Highball glass
+
+>Mexico Rose
+
+30 Tequila
+30 Cassis
+30 Lime juice
+
+i:
+Shake and short glass
+
+>Parisian
+
+30 Gin
+30 Cassis
+20 Dry Vermouth
+
+i:
+Shake and short glass
+
+>Coconut Daiquiri
+
+30 Malibu
+30 Rum
+20 Lime juice
+1 tsp gum syrup
+
+>Untitled two
+
+40 Cramberry juice
+30 Strawberry Lq
+30 Cream
+
+i:
+Shake and short
+
+>Spumoni
+
+30 Campari
+60 Grapefruit juice
+Top Tonic
+
+i:
+Stir
+
+>China Blue
+
+60 Grapefruite juice
+30 Lychee Lq
+30 Blue Curacao
+
+i:
+Stir
+
+>Fuzzy Navle
+
+30 Peach Lq
+Top Orange juice
+
+i:
+Stir, on the rocks
+
+>Grasshopper
+
+30 White cacao
+30 Crema de leche
+30 Mint Lq
+
+i:
+Shake and short
+
+>Pink Squirrel
+
+30 White cacao lq
+30 Cream
+30 Frangelico
+
+i:
+Shake and serve on the rocks
+
+>Velvet Hammer
+
+30 Coffee
+30 White cacao lq
+30 Cream
+
+i:
+Shake and short
+
+>Jamaica Joe
+
+30 Rum white
+30 Coffee 
+30 Egg Lq (Advocaat)
+1 dash granadyne syrup
+
+i:
+Shake and add granadine after puritng in shortglass
+
+>Cosmopolitan
+30 Vodka
+10 White curacao
+10 Cranberry juice
+10 lime juice
+
+i:
+Shake and short glass
+
+>Strawberry Margarita
+
+60 Tequila Blanco
+15 Triple sec
+15 Licor frutillas
+60 Pulpa de frutillas
+30 lemon juice
+1 dash sugar syrup
+
+>Luces de la Habana
+
+40 Malibu
+20 Melon Lq
+60 Orange Juice
+60 Pineaple juice
+
+i:
+Shake and serve in high ball glass with ice
+
+>Nevado
+
+30 Fernet Branca (Mint)
+80 Orange Juice
+10 Whiskey
+Top cream
+
+i:
+Shake and top with cream
+
+>Alegria
+
+30 Fernet
+30 Vermouth americano
+30 Lemon juice
+
+i:
+Highball glass
+
+>Cristina
+
+60 Jerez
+60 Pineapple juice
+10 Prunele
+40 Fernet mint
+
+i:
+Stir
+
+
+
+i:
+Shake everything and add a dash of sugar syrup
+
